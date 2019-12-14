@@ -1,5 +1,3 @@
-## CS 254 Program 10 Fall 2019
-##
 ## Convert a Celsius value to Fahrenheit. Output "Too Hot!" if > 80.0F
 ##
 ## Programmer: Alex Zaleski
