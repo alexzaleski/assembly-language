@@ -1,5 +1,3 @@
-## CS 254 Program 9 Fall 2019
-##
 ## Compute change due given a number of cents.
 ##
 ## Programmer: Alex Zaleski
